@@ -18,9 +18,9 @@ Calculadora desenvolvida em Python para realizar operações aritméticas básic
 
 1. Execute o script no terminal:
 
-   ```bash
-   python calculadora_aprimorada.py
-   ```
+ ```bash
+python calculadora_aprimorada.py
+ ```
 2. Digite dois números e escolha o operador desejado (`+`, `-`, `*`, `/`).
 3. Após exibir o resultado, o programa perguntará se deseja continuar ou encerrar.
 
